@@ -1,0 +1,20 @@
+.addedPizzaWrapper {
+  display: flex;
+  flex-direction: row;
+  .pizzaImage {
+    img {
+      width: 100px;
+      height: 100px;
+
+    }
+  }
+  .pizzaName {
+
+  }
+  .removePizza {
+
+  }
+  .pizzaPrice {
+
+  }
+}

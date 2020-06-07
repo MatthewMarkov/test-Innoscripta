@@ -1,0 +1,23 @@
+.cartWrapper {
+  display: flex;
+  flex-direction: column;
+  .cartHeader {
+    p {
+      margin: 0;
+      font-weight: bold;
+      color: red;
+      font-size: 40px;
+    }
+    .itemsCount {
+      padding-bottom: 15px;
+      font-size: 20px;
+    }
+  }
+  .cartBody {
+
+  }
+  .cartFooter {
+    display: flex;
+    flex-direction: row;
+  }
+}

@@ -1,0 +1,12 @@
+.app{
+  display: grid;
+  width: 1200px;
+  grid-template-columns: 1fr;
+  grid-template-rows: 210px  1fr 100px;
+  margin: 0 auto;
+
+
+  .mainContentWrapper {
+    grid-area: 2 / 1 / 3 / 2;
+  }
+}
