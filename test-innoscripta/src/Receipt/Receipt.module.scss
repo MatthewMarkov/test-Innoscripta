@@ -1,3 +1,59 @@
-.receipt {
+.receiptWrapper {
+  display: flex;
+  flex-direction: column;
+  padding: 0px 250px;
 
+  .conformation {
+    font-size: 25px;
+    font-weight: bold;
+  }
+
+  .billHeader {
+    font-size: 25px;
+    padding-bottom: 10px;
+  }
+
+  .bill {
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    padding: 10px;
+
+    .billItems {
+      display: flex;
+      flex-direction: column;
+      font-size: 20px;
+    }
+
+    .total {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      font-size: 20px;
+
+
+    }
+  }
+
+  .userInfo {
+    font-size: 20px;
+  }
+
+  .getBill {
+    align-self: center;
+    padding: 10px 40px;
+    margin: 15px 0px;
+    text-decoration: none;
+    font-size: 20px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color: white;
+    color: black;
+    border: 2px solid #00796B;
+
+    &:hover {
+      background-color: #00796B;
+      color: white;
+    }
+  }
 }

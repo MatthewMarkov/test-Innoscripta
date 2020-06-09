@@ -6,8 +6,7 @@ import {chosePizza} from "../redux/pizza-reducer";
 
 const Menu = (props) => {
     const PizzaList = props.pizzaList.map((pizza) => (
-        <PizzaItem key={pizza.id}
-                   id={pizza.id}
+        <PizzaItem id={pizza.id}
                    name={pizza.name}
                    price={pizza.price}
                    img={pizza.img}
@@ -21,6 +20,6 @@ const Menu = (props) => {
     )
 }
 const mapStateToProps = (state) => ({
-    pizzaList:  state.pizzaManager.pizzaArray
+    pizzaList: state.pizzaManager.pizzaArray
 })
-export default connect(mapStateToProps, {chosePizza}) (Menu)
+export default connect(mapStateToProps, {chosePizza})(Menu)

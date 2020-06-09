@@ -1,23 +1,58 @@
 .cartWrapper {
   display: flex;
   flex-direction: column;
+
   .cartHeader {
+    border-bottom: 1px solid gray;
+
     p {
       margin: 0;
       font-weight: bold;
       color: red;
       font-size: 40px;
     }
+
     .itemsCount {
       padding-bottom: 15px;
       font-size: 20px;
     }
   }
+
   .cartBody {
 
   }
-  .cartFooter {
+
+  .totalPrice {
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 20px 0px;
+  }
+
+  .confirmOrder {
+    padding-bottom: 15px;
+
+    .NavLink {
+      float: right;
+      padding: 16px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 20px;
+      margin: 4px 2px;
+      transition-duration: 0.4s;
+      cursor: pointer;
+      background-color: white;
+      color: black;
+      border: 2px solid #00796B;
+
+      &:hover {
+        background-color: #00796B;
+        color: white;
+      }
+    }
+
   }
 }
