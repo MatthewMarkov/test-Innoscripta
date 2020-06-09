@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/test-Innoscripta/static/css/main.0a7aa6ec.chunk.css",
-    "main.js": "/test-Innoscripta/static/js/main.4e7eae3b.chunk.js",
-    "main.js.map": "/test-Innoscripta/static/js/main.4e7eae3b.chunk.js.map",
+    "main.css": "/test-Innoscripta/static/css/main.b38f94d5.chunk.css",
+    "main.js": "/test-Innoscripta/static/js/main.8d4b963c.chunk.js",
+    "main.js.map": "/test-Innoscripta/static/js/main.8d4b963c.chunk.js.map",
     "runtime-main.js": "/test-Innoscripta/static/js/runtime-main.1c2fb66b.js",
     "runtime-main.js.map": "/test-Innoscripta/static/js/runtime-main.1c2fb66b.js.map",
     "static/js/2.8764fea3.chunk.js": "/test-Innoscripta/static/js/2.8764fea3.chunk.js",
     "static/js/2.8764fea3.chunk.js.map": "/test-Innoscripta/static/js/2.8764fea3.chunk.js.map",
     "index.html": "/test-Innoscripta/index.html",
-    "precache-manifest.30bb77fb097f73d678e6d5e44e64efc9.js": "/test-Innoscripta/precache-manifest.30bb77fb097f73d678e6d5e44e64efc9.js",
+    "precache-manifest.adadc598927759d889392a2bfed5195c.js": "/test-Innoscripta/precache-manifest.adadc598927759d889392a2bfed5195c.js",
     "service-worker.js": "/test-Innoscripta/service-worker.js",
-    "static/css/main.0a7aa6ec.chunk.css.map": "/test-Innoscripta/static/css/main.0a7aa6ec.chunk.css.map",
+    "static/css/main.b38f94d5.chunk.css.map": "/test-Innoscripta/static/css/main.b38f94d5.chunk.css.map",
     "static/js/2.8764fea3.chunk.js.LICENSE.txt": "/test-Innoscripta/static/js/2.8764fea3.chunk.js.LICENSE.txt",
     "static/media/innoscripta pizza.png": "/test-Innoscripta/static/media/innoscripta pizza.4da63c4d.png",
     "static/media/pepperoni.png": "/test-Innoscripta/static/media/pepperoni.054e0dca.png",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.1c2fb66b.js",
     "static/js/2.8764fea3.chunk.js",
-    "static/css/main.0a7aa6ec.chunk.css",
-    "static/js/main.4e7eae3b.chunk.js"
+    "static/css/main.b38f94d5.chunk.css",
+    "static/js/main.8d4b963c.chunk.js"
   ]
 }
