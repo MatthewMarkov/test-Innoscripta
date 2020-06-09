@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/test-Innoscripta/static/css/main.0a7aa6ec.chunk.css",
+    "main.js": "/test-Innoscripta/static/js/main.4e7eae3b.chunk.js",
+    "main.js.map": "/test-Innoscripta/static/js/main.4e7eae3b.chunk.js.map",
+    "runtime-main.js": "/test-Innoscripta/static/js/runtime-main.1c2fb66b.js",
+    "runtime-main.js.map": "/test-Innoscripta/static/js/runtime-main.1c2fb66b.js.map",
+    "static/js/2.8764fea3.chunk.js": "/test-Innoscripta/static/js/2.8764fea3.chunk.js",
+    "static/js/2.8764fea3.chunk.js.map": "/test-Innoscripta/static/js/2.8764fea3.chunk.js.map",
+    "index.html": "/test-Innoscripta/index.html",
+    "precache-manifest.30bb77fb097f73d678e6d5e44e64efc9.js": "/test-Innoscripta/precache-manifest.30bb77fb097f73d678e6d5e44e64efc9.js",
+    "service-worker.js": "/test-Innoscripta/service-worker.js",
+    "static/css/main.0a7aa6ec.chunk.css.map": "/test-Innoscripta/static/css/main.0a7aa6ec.chunk.css.map",
+    "static/js/2.8764fea3.chunk.js.LICENSE.txt": "/test-Innoscripta/static/js/2.8764fea3.chunk.js.LICENSE.txt",
+    "static/media/innoscripta pizza.png": "/test-Innoscripta/static/media/innoscripta pizza.4da63c4d.png",
+    "static/media/pepperoni.png": "/test-Innoscripta/static/media/pepperoni.054e0dca.png",
+    "static/media/pngwing.com (1).png": "/test-Innoscripta/static/media/pngwing.com (1).0e08f63e.png",
+    "static/media/pngwing.com (2).png": "/test-Innoscripta/static/media/pngwing.com (2).5d9a1e19.png",
+    "static/media/pngwing.com (3).png": "/test-Innoscripta/static/media/pngwing.com (3).83709c05.png",
+    "static/media/pngwing.com (4).png": "/test-Innoscripta/static/media/pngwing.com (4).cfad6b25.png",
+    "static/media/pngwing.com (5).png": "/test-Innoscripta/static/media/pngwing.com (5).e9afc071.png",
+    "static/media/pngwing.com (6).png": "/test-Innoscripta/static/media/pngwing.com (6).f499b4aa.png",
+    "static/media/pngwing.com (7).png": "/test-Innoscripta/static/media/pngwing.com (7).c67e3c8c.png",
+    "static/media/shopping-cart-solid.svg": "/test-Innoscripta/static/media/shopping-cart-solid.8bf1af37.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c2fb66b.js",
+    "static/js/2.8764fea3.chunk.js",
+    "static/css/main.0a7aa6ec.chunk.css",
+    "static/js/main.4e7eae3b.chunk.js"
+  ]
+}
